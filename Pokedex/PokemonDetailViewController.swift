@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  PokemonDetailViewController.swift
 //  Pokedex
 //
 //  Created by Chris Eadie on 26/11/2020.
@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class PokemonDetailViewController: UITableViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
